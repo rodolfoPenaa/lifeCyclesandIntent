@@ -1,0 +1,2 @@
+rootProject.name='MyZapp'
+include ':app'
